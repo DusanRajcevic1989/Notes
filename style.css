@@ -1,0 +1,53 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+img {
+  border-radius: 60px 20px;
+  width: 200px;
+  border: 2px solid black;
+  margin: 20px;
+}
+nav {
+  background-color: blueviolet;
+  height: 50px;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+}
+nav {
+  display: block;
+}
+h1,
+h2,
+h3 {
+  margin: 10px;
+  padding: 5px;
+}
+body {
+  background-color: rgb(128, 228, 173);
+}
+.section {
+  width: 40%;
+  display: inline-block;
+}
+.something-section {
+  border: 4px solid black;
+  width: 600px;
+  padding: 10px;
+  margin: 10px;
+}
+.chockolate-section {
+  border: 4px dotted black;
+  width: 600px;
+  padding: 10px;
+  margin: 10px;
+}
+.image-section p {
+  display: inline-block;
+  width: 300px;
+}
